@@ -7,7 +7,7 @@
         <connection>https://github.com/syed-ah/dotphresco.git</connection>
         <developerConnection>scm:git:https://github.com/syed-ah/dotphresco.git</developerConnection>
         <url>scm:git:https://github.com/syed-ah/dotphresco.git</url>
-      <tag>branch-split-project</tag>
+      <tag>HEAD</tag>
   </scm>
   <name>responsive-web-demo</name>
   <packaging>phresco</packaging>
